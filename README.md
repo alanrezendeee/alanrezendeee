@@ -6,6 +6,7 @@ Hello! Welcome to my profile
 
 👷 I'm a Software Architect
 📚 A regular reader
+🍻 Beer drinker
 🧀 An eater of ruffles with melted mozzarella cheese, bread and pepper (all together)
 🥓 Crazy about cracklingand
 ❤️ Passionate about life, emotions, sensations and dogs 🐕
