@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=alanrezendeee&hide_border=true&background=0a0a0a&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=alanrezendeee&hide_border=true&background=0a0a0a&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&v=2" alt="Streak" />
 
 </div>
 
