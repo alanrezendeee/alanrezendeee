@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre mim
 
-- 🏗️ **Arquiteto de Software** — 10+ anos construindo sistemas escaláveis
-- 🚀 Founder da **[The Retech](https://github.com/theretech)** — AI Labs & produtos digitais
+- 🏗️ **Arquiteto de Software** — construindo sistemas escaláveis
+- 🚀 Founder da **[The Retech](https://github.com/theretechlabs)** — AI Labs & produtos digitais
 - 📍 Santa Catarina, Brasil
 - 📚 Leitor assíduo &nbsp;•&nbsp; 🍻 Beer drinker &nbsp;•&nbsp; 🐕 Apaixonado por dogs (e por gente também, um pouco)
 
@@ -32,8 +32,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alanrezendeee&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=00FF88&text_color=ffffff&ring_color=00FF88" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrezendeee&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF88&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanrezendeee&theme=github_dark" alt="Profile details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanrezendeee&theme=github_dark" alt="Top languages (repos)" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanrezendeee&theme=github_dark" alt="Top languages (commits)" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanrezendeee&theme=github_dark" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanrezendeee&theme=github_dark&utcOffset=-3" alt="Commits por horário" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=alanrezendeee&hide_border=true&background=0a0a0a&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666" alt="Streak" />
 
@@ -43,7 +50,7 @@
 
 <div align="center">
 
-💚 *Feito com café, cerveja e código* &nbsp;|&nbsp; **[github.com/theretech](https://github.com/theretech)**
+💚 *Feito com café, cerveja e código* &nbsp;|&nbsp; **[github.com/theretechlabs](https://github.com/theretechlabs)**
 
 <img src="https://komarev.com/ghpvc/?username=alanrezendeee&color=00FF88&style=flat-square&label=views" alt="Profile views" />
 
