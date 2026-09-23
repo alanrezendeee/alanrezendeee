@@ -23,9 +23,11 @@
 
 | Produto | O que é |
 |---------|---------|
-| 💸 **Cashflowfy** | Gestão de fluxo de caixa para pequenos negócios |
-| 🤖 **MeuN8N** | Automações self-hosted sem dor de cabeça |
-| 📊 **Dados Brasileiros** | API de serviços utilitários e integrações públicas BR |
+| 🏛️ **Carceris** | A Infraestrutura Digital do Sistema Prisional da Paraíba |
+| 👨‍👩‍👧‍👦 **MeuFinanceiro** | Sistema Financeiro Familiar |
+| 📈 **Cashflowfy** | Gestão de fluxo de caixa para pequenos negócios |
+| ⚙️ **MeuN8N** | Automações self-hosted sem dor de cabeça |
+| 🇧🇷 **Dados Brasileiros** | API de serviços utilitários e integrações públicas BR |
 | 🧠 **Kimi Caveman / Kimi Mem** | Skills open-source de eficiência de tokens e memória persistente para CLIs de IA |
 
 ## 📊 Stats
