@@ -24,6 +24,7 @@
 | Produto | O que é |
 |---------|---------|
 | 🏛️ **Carceris** | A Infraestrutura Digital do Sistema Prisional da Paraíba |
+| 🚀 ReLaunch | Deploy e Infraestrutura em um Só Lugar |
 | 👨‍👩‍👧‍👦 **MeuFinanceiro** | Sistema Financeiro Familiar |
 | 📈 **Cashflowfy** | Gestão de fluxo de caixa para pequenos negócios |
 | ⚙️ **MeuN8N** | Automações self-hosted sem dor de cabeça |
